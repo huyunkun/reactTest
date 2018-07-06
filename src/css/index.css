@@ -1,0 +1,8 @@
+.container {
+    text-align: center;
+    margin-top: 40px;
+    width: 100px;
+    height: 100px;
+    /* background: url('../images/1.jpg') no-repeat center / contain; */
+    background: red;
+}
